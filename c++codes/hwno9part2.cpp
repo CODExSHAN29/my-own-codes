@@ -12,9 +12,9 @@ int evenfinder(int a){
 
 
 int main(){
-int a;
+int ab;
 cout<<"the input for the number:";
-cin>>a;
-cout<<evenfinder(a);
+cin>>ab;
+cout<<evenfinder(ab);
 return 0;
 }
